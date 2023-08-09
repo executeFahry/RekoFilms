@@ -1,0 +1,103 @@
+html {
+  scroll-behavior: smooth;
+}
+
+.mainBg {
+  height: 100vh;
+  background: url(../assets/images/background/landing_bg.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.brandName {
+  font-weight: 700;
+}
+
+.intro {
+  height: 18rem;
+}
+
+.jargon {
+  font-size: 2.5rem;
+  font-weight: 700;
+  letter-spacing: 2px;
+  line-height: 1.2;
+}
+
+.trending {
+  height: auto;
+  background: url(../assets/images/background/trending_bg.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.sectionTitle {
+  font-size: 2.3rem;
+  font-weight: 700;
+  letter-spacing: 2px;
+  line-height: 1.2;
+  text-shadow: 3px 3px 2px #000000;
+}
+
+.posterContainer {
+  height: auto;
+  background-color: #000000;
+  margin: 5px;
+  padding: 3px;
+}
+
+.moviePoster {
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+  height: 31.25rem;
+}
+
+.textTitle {
+  font-size: 1.2rem;
+  font-weight: 500;
+  width: 100%;
+  float: left;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  overflow: hidden;
+}
+
+.textReleaseDate {
+  font-size: 0.8rem;
+  color: #9f9f9f;
+}
+
+.action {
+  height: auto;
+  background: url(../assets/images/background/action_bg.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.fantasy {
+  height: auto;
+  background: url(../assets/images/background/fantasy_bg.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.horror {
+  height: auto;
+  background: url(../assets/images/background/horror_bg.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.science {
+  height: auto;
+  background: url(../assets/images/background/science_bg.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.sciFi {
+  height: auto;
+  background: url(../assets/images/background/sci-fi_bg.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
